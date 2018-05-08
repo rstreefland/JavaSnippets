@@ -1,4 +1,4 @@
-package uk.co.streefland.rhys.oddsandsods;
+package uk.co.streefland.rhys.snippets;
 
 /**
  * Created by Rhys on 09/11/2016.

@@ -1,4 +1,4 @@
-package uk.co.streefland.rhys.oddsandsods;
+package uk.co.streefland.rhys.snippets;
 
 import java.util.*;
 

@@ -1,9 +1,5 @@
-package uk.co.streefland.rhys.oddsandsods;
-import java.io.*;
+package uk.co.streefland.rhys.snippets;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
